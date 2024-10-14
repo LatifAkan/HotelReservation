@@ -1,3 +1,3 @@
-# website
+# Hotel reservation
 
-On this website I will collect the projects I'm currently working on.
+A simple Reservation for a hotel.
